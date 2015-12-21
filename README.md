@@ -1,2 +1,2 @@
 # datasciencecoursera
-Data science test project
+Data science project test-repo
